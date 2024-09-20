@@ -3,8 +3,8 @@
 # Minimización de la Función de Langermann con Algoritmo Genético
 
 **Autor:** Eliot Fabián Valdés Luis  
-**Materia:** Tópicos Selectos de Algoritmos Bioinspirados
-**Carrera:** Ingeniería en Inteligencia Artificial
+**Materia:** Tópicos Selectos de Algoritmos Bioinspirados  
+**Carrera:** Ingeniería en Inteligencia Artificial  
 **Escuela:** Escuela Superior de Cómputo, IPN
 
 ---
